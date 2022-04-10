@@ -1,0 +1,22 @@
+ass
+*.log
+*.iml
+.DS_Store
+.idea
+# .gitignore for maven
+target/
+
+out/
+build/
+*.target/
+*target/
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+/.classpath
+/.launch
+/.project
+/.settings
