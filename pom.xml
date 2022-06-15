@@ -10,8 +10,6 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>bigdata-study-common</module>
-        <module>bigdata-study-io</module>
-        <module>bigdata-study-event</module>
         <module>bigdata-study-concurrent</module>
     </modules>
 
